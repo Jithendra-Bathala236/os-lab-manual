@@ -1,0 +1,5 @@
+This is a sample text with bar.
+bar can appear multiple times in this text.
+Replace bar with bar.
+This is the end of the sample.
+
